@@ -1,5 +1,5 @@
 # Welcome to my Github!
-### • Here I put my projects to anyone to see. My name is Gabriel Froes and I live in Vitória da Conquista Bahia. At the moment I’m studying Ruby and it’s framework Ruby on Rails.
+### • Here I put my projects to anyone to see. My name is Gabriel Froes and I live in Vitória da Conquista Bahia. At the moment I’m studying Ruby and framework Ruby on Rails.
 <div>
   <a href="https://github.com/azizsgf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizsgf&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
