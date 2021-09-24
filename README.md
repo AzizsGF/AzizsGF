@@ -2,8 +2,8 @@
 ### • Here I put my projects to anyone to see. My name is Gabriel Froes and I live in Vitória da Conquista Bahia. At the moment I’m studying Ruby and framework Ruby on Rails.
 <div>
   <a href="https://github.com/Gfro3s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizsgf&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizsgf&layout=compact&langs_count=16&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfro3s&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfro3s&layout=compact&langs_count=16&theme=outrun"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Froes-RB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
