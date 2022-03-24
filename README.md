@@ -36,7 +36,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/ogabrielfroes/" target="_blank"><img align="center" alt="Froes-Wpp" height="28" width="107" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.instagram.com/gfro3s/" target="_blank"><img align="center" alt="Froes-Wpp" height="28" width="121" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://api.whatsapp.com/send?phone=5577998152573&text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento!" target="_blank"><img align="center" alt="Froes-Wpp" height="28" width="113" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ <a href="https://api.whatsapp.com/send?phone=5555 77 99815-2573&text=" target="_blank"><img align="center" alt="Froes-Wpp" height="28" width="113" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <p align="center"> 
 
  <p align="center"> 
